@@ -44,6 +44,9 @@
 <a href="https://github.com/youssefjoundi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://g.dev/youssefjoundi" target="_blank">
+<img src=https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 <a href="https://twitter.com/youssef_joundi" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -59,18 +62,18 @@
 <a href="https://stackoverflow.com/users/youssef-joundi" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://dribbble.com/Dribble" target="_blank">
+<!-- <a href="https://dribbble.com/Dribble" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.behance.net/Behance" target="_blank">
+</a> -->
+<!-- <a href="https://www.behance.net/Behance" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://medium.com/Medium" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/Youtube" target="_blank">
+<!-- <a href="https://www.youtube.com/user/Youtube" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
+</a>   -->
 </div>  
   
 
