@@ -89,6 +89,13 @@
   </div>
 <br/>
 
+## Projects
+<div align="center">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<br/>
+
+
 
 <div align="center">
     <a href="https://paypal.me/Paypal.me" target="_blank" style="display: inline-block;">
@@ -104,6 +111,7 @@
         />
     </a></div>
 <br />
+
 
 
 
