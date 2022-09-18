@@ -85,12 +85,14 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefjoundi&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
+
   </div>
+<br/>
+## Github Stats 
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br/>
+
 
 <div align="center">
     <a href="https://paypal.me/Paypal.me" target="_blank" style="display: inline-block;">
