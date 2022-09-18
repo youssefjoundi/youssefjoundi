@@ -83,8 +83,6 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youssefjoundi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 <br/>
 
 
