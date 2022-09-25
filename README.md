@@ -100,7 +100,7 @@
 
 
 <div align="center">
-    <a href="https://paypal.me/Paypal.me" target="_blank" style="display: inline-block;">
+    <a href="https://paypal.me/youssefjoundi" target="_blank" style="display: inline-block;">
         <img
             src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
             align="center"
