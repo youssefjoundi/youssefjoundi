@@ -14,7 +14,7 @@
 
 - ❓ Ask me about anything related to Modern Android Developement  
  
-- 📫 How to reach me **youssef@joundidev.com**
+- 📫 How to reach me **youssefjoundi98@gmail.com**
 
 - ⚡ Fun fact: I use tabs over spaces  
   
